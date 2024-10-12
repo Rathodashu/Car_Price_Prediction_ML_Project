@@ -1,4 +1,4 @@
-# Car_Price_Prediction_ML_LinearRegression_Project
+![image](https://github.com/user-attachments/assets/49ed5a6d-7063-4052-9177-635cd70ae0f6)# Car_Price_Prediction_ML_LinearRegression_Project
 
 ## Description
 ## What this project does?
@@ -16,3 +16,4 @@
 
 ## Project Aim.
 - This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
+
