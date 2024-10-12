@@ -1,2 +1,2 @@
-# Car_Price_Prediction_ML_Project
+# Car_Price_Prediction_ML_LinearRegression_Project
 Machine_Learning
